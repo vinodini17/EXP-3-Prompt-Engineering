@@ -208,7 +208,7 @@ B-tree may waste more space with mixed key/value storage; B+ tree uses internal 
 B-tree suits direct record lookups; B+ tree excels in databases needing range queries and sequential scans.
 
 ## Comparison Table:
-![alt text](Gemini_Generated_Image_f3f1c6f3f1c6f3f1.png)
+<img width="965" height="768" alt="image" src="https://github.com/user-attachments/assets/f8af042b-b7b1-4dfa-9656-04685a0f9be0" />
 
 
 ## Result
